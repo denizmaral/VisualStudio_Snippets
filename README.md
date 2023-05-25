@@ -14,3 +14,7 @@ With that CodeSnippet for Visual Studio you can create properties for classes th
 
 
 ![grafik](https://github.com/denizmaral/VisualStudio_Snippets/assets/55183821/4abd601a-54db-4c8d-bd31-82a11156a40b)
+
+
+
+Here is a [tutorial](https://learn.microsoft.com/de-de/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2022) how to create a Code Snippet in Visual Studio:
